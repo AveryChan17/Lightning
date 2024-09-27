@@ -8,7 +8,6 @@ void setup()
   background(75,75,77);
 }
 void draw()
-{System.out.println(mouseX + "," +mouseY);
  fill(255,255,255);
  stroke(256);
   ellipse(143,40,300,100);
